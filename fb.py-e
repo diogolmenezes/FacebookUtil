@@ -65,7 +65,7 @@ class FacebookUtil():
 
 if __name__ == '__main__':
     fbu = FacebookUtil()
-    posts = fbu.smart_search('no telefone')
+    posts = fbu.smart_search('ma nostalgia dos nossos arranca ra')
     fbu.print_messages(posts)
-    fbu.reply(posts, 'teste 123')
+    #fbu.reply(posts, 'teste 123')
 
