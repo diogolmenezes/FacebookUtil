@@ -65,8 +65,9 @@ class FacebookUtil():
         return result['data']
 
 if __name__ == '__main__':
-    fbu = FacebookUtil()
-    posts = fbu.smart_search('ma nostalgia dos nossos arranca ra')
-    fbu.print_messages(posts)
-    #fbu.reply(posts, 'teste 123')
+    # testing ...
+    #fbu = FacebookUtil()
+    #posts = fbu.smart_search('django')
+    #fbu.print_messages(posts)
+    #fbu.reply(posts, 'comentario para todos os posts selecionados ;)')
 
