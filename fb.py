@@ -10,7 +10,7 @@ class FacebookUtil():
     ##
     ## To make this work, you need a token which you can obtain from Graph API Explorer with the appropriate permissions.
     ## https://developers.facebook.com/tools/explorer/
-    ## You will need read_stream, read_insights and publish_stream permitions
+    ## You will need read_stream, read_insights and publish_stream permissions
     ##
     ############################################################################################################################
 
